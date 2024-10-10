@@ -1,4 +1,4 @@
-```markdown
+
 # HTTP Proxy Server
 
 A multithreaded HTTP proxy server designed to handle both regular HTTP requests and HTTPS CONNECT tunneling. This server acts as an intermediary, forwarding client requests to destination servers, modifying them as needed, and relaying responses back to the client.
@@ -56,7 +56,7 @@ python3 proxy_server.py 8080 # runs on port 8080
 ## Authors
 Here is the `README.md` in markdown format:
 
-```markdown
+
 # HTTP Proxy Server
 
 A multithreaded HTTP proxy server designed to handle both regular HTTP requests and HTTPS CONNECT tunneling. This server acts as an intermediary, forwarding client requests to destination servers, modifying them as needed, and relaying responses back to the client.
