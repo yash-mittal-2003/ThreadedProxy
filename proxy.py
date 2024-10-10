@@ -1,6 +1,6 @@
 """
 ******************************************************************************
-Author      = Yash Mittal (112101054), Rachit Jain (112101019),
+Author      = Yash Mittal (112101054), Rachit Jain (112101019)
 
 Project     = HTTP Proxy Server
 
